@@ -1,8 +1,8 @@
 # Cybersecurity Portfolio
 
-Welcome! I'm Lillie Ray — a tech professional transitioning into cybersecurity with a strong foundation in IT support, Azure, and security concepts.
+Welcome! I'm Lillie Ray  a tech professional transitioning into cybersecurity with a strong foundation in IT support, Azure, and security concepts.
 
-This repo is where I document my hands-on practice and learning across areas like:
+This repo is where I document my hands on practice and learning across areas like:
 -  SOC analysis and incident response
 - Threat detection and alert triage
 - Vulnerability management
@@ -16,7 +16,7 @@ I'll be adding:
 - Vulnerability scan reviews
 - PowerShell and CLI scripts
 
-> **Goal:** To grow into a role where I can help detect, respond to, and prevent security incidents in real-world environments.
+> **Goal:** To grow into a role where I can help detect, respond to, and prevent security incidents in real world environments.
 
 ---
 
