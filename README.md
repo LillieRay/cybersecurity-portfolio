@@ -6,7 +6,7 @@ This repo is where I document my hands on practice and learning across areas lik
 -  SOC analysis and incident response
 - Threat detection and alert triage
 - Vulnerability management
-- ☁Cloud security (with a focus on Azure)
+- Cloud security (with a focus on Azure)
 - Security documentation and processes
 
 ### Labs and Projects (coming soon)
