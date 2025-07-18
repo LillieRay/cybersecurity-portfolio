@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome! I'm Lillie Ray  a tech professional transitioning into cybersecurity with a strong foundation in IT support, Azure, and security concepts.
+Welcome!, I'm Lillie Ray  a tech professional transitioning into cybersecurity with a strong foundation in IT support, Azure, and security concepts.
 
 This repo is where I document my hands on practice and learning across areas like:
 -  SOC analysis and incident response
